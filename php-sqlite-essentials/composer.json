@@ -1,0 +1,17 @@
+{
+    "name": "romspires/php-sqlite",
+    "description": "Exercise for PHP + SQLite.",
+    "type": "library",
+    "authors": [
+        {
+            "name": "romspires",
+            "email": "romulosampaiopires@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Roms\\": "src/"
+        }
+    }
+}
